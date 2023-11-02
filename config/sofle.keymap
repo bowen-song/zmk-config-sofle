@@ -46,7 +46,7 @@
 &kp LEFT_SHIFT    &kp A   &kp S    &kp D     &kp F          &kp G                                       &kp H      &kp J      &kp K         &kp L     &kp SEMI  &kp SQT
 &kp LEFT_CONTROL  &kp Z   &kp X    &kp C     &kp V          &kp B      &kp C_PLAY_PAUSE                 &kp N      &kp M      &kp COMMA     &kp DOT   &kp FSLH  &kp RSHFT
                           &kp DEL  &kp LALT  &kp LEFT_META  &kp SPACE  &lt 1 ESC           &lt 2 ENTER  &kp SPACE  &kp RCTRL  &kp CAPSLOCK  &kp RGUI
-                                                                                           &kp A      &kp B  &kp C &kp D  &kp E
+                                                                                           &kp ENTER    &kp END    &kp PG_UP  &kp HOME      &kp PG_DN
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP &inc_dec_kp PG_UP PG_DN>;
